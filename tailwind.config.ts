@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'brand-orange': 'hsl(var(--brand-orange))',
+				'brand-orange-hover': 'hsl(var(--brand-orange-hover))',
+				'video-card': 'hsl(var(--video-card))',
+				'video-card-hover': 'hsl(var(--video-card-hover))',
+				'category-pill': 'hsl(var(--category-pill))',
+				'category-pill-active': 'hsl(var(--category-pill-active))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
